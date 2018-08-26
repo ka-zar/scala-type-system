@@ -35,7 +35,7 @@ val a1: Apple = appleBowl.food
 //This we also call a path dependent type
 val a2: appleBowl.FOOD = appleBowl.food
 
-val 01: orangeBowl.FOOD = orangeBowl.food
+val o1: orangeBowl.FOOD = orangeBowl.food
 
 // but does not compile:
 //val o1: orangeBowl.FOOD = appleBowl.food

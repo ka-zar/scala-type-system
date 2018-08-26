@@ -8,7 +8,7 @@ case class Muesli(name: String) extends Cereal
 
 /**
   * We can have fields as members of a class
-  * we can types as members of a class
+  * we can have types as members of a class
   */
 abstract class FoodBowl2 {
   //It's generic type but it's not generic parameter any more
